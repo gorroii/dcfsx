@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+FMLAT: accesstransformer.cfg
+Specification-Title: epic_fight_avalon
+Specification-Vendor: Merlin204
+Specification-Version: 1
+Implementation-Title: Avalon
+Implementation-Version: 20.12.3.4
+Implementation-Vendor: Merlin204
+Implementation-Timestamp: 2025-10-11T22:42:07+0800
+MixinConfigs: epic_fight_avalon.mixins.json
+
